@@ -92,11 +92,160 @@ I am continuously improving my technical skills through projects and practical e
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>Projects</h2>
+<h3>📚 Dynamic Website Using API Integration and DOM Manipulation</h3>
+<p>
+<strong>Description:</strong><br>
+Developed a dynamic web application capable of consuming data from external APIs to provide users with real-time and interactive content. The project focused on integrating external services, building responsive interfaces, and creating dynamic user experiences through DOM manipulation.
+</p>
 
 
+<h4>🛠 Technologies Used</h4>
+<ul>
+  <li>HTML</li>
+  <li>SASS</li>
+  <li>JavaScript</li>
+  <li>APIs</li>
+  <li>DOM Manipulation</li>
+</ul>
+
+
+<h4>🚀 Key Responsibilities & Features</h4>
+<ul>
+  <li>Built responsive and visually appealing interfaces using HTML and SASS.</li>
+  <li>Implemented JavaScript functionality to consume external APIs and dynamically update content.</li>
+  <li>Managed DOM manipulation, validations, dynamic responses, and error handling.</li>
+  <li>Tested and optimized the application across different browsers and devices to ensure responsiveness and performance.</li>
+</ul>
+
+
+<a href="https://github.com/MarcoPerez29/shows-api"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" width="50"/></a>
+<a href="https://shows123.netlify.app/"><img src="https://i.pinimg.com/564x/ef/80/70/ef8070c57db99e16919c4824e0f8a60d.jpg" alt="Tv Show" height="50" width="50"/></a>
+
+
+<hr>
+
+
+
+
+<h3>📚 Responsive and Interactive E-Commerce Website</h3>
+<p>
+<strong>Description:</strong><br>
+Developed a responsive and interactive e-commerce website focused on delivering an engaging user experience and functional online shopping environment. The project involved planning the website structure, implementing dynamic features, and ensuring compatibility across multiple devices and browsers.
+</p>
+
+
+<h4>🛠 Technologies Used</h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SASS</li>
+  <li>JavaScript</li>
+</ul>
+
+
+<h4>🚀 Key Responsibilities & Features</h4>
+<ul>
+  <li>Built the website structure using HTML and progressively integrated styling and interactive features with CSS, SASS, and JavaScript.</li>
+  <li>Implemented responsive design principles to provide an optimized experience across different screen sizes.</li>
+  <li>Conducted testing and adjustments across multiple browsers and devices to improve usability and performance.</li>
+</ul>
+
+<a href="https://github.com/MarcoPerez29/E-commerce-Proyect1"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" width="50"/></a>
+<a href="https://ecommerce-proyect1.netlify.app/"><img src="https://i.pinimg.com/564x/ef/80/70/ef8070c57db99e16919c4824e0f8a60d.jpg" alt="Tv Show" height="50" width="50"/></a>
+
+
+
+<hr>
+
+
+<h3>📚 Library Management System with Database Persistence</h3>
+<p>
+<strong>Description:</strong><br>
+Developed a Java-based library management system with database persistence, design patterns, and unit testing implementation. The application allows efficient library administration through CRUD operations for the main system entities, providing a structured and scalable architecture.
+</p>
+
+<h4>🛠 Technologies Used</h4>
+<ul>
+  <li>Java</li>
+  <li>MySQL</li>
+  <li>JPA / Hibernate</li>
+  <li>Unit Testing</li>
+  <li>Design Patterns</li>
+</ul>
+
+<h4>🚀 Key Responsibilities & Features</h4>
+<ul>
+  <li>Implemented CRUD operations for core entities:
+    <ul>
+      <li>Author</li>
+      <li>Book</li>
+      <li>User</li>
+      <li>Library</li>
+    </ul>
+  </li>
+
+  <li>Integrated a MySQL database to persist and manage application data.</li>
+
+  <li>Applied JPA/Hibernate to establish communication between the application and the database.</li>
+
+  <li>Designed the application using a layered architecture:
+    <ul>
+      <li>Model Layer</li>
+      <li>Repository Layer</li>
+      <li>Service Layer</li>
+      <li>Connection Layer</li>
+    </ul>
+  </li>
+
+  <li>Implemented software design patterns:
+    <ul>
+      <li><strong>Factory Pattern:</strong> Centralized EntityManager creation using ConnectionFactory.</li>
+      <li><strong>Repository Pattern:</strong> Abstracted and managed data access operations.</li>
+    </ul>
+  </li>
+
+  <li>Developed unit tests to validate business logic and improve application reliability.</li>
+
+</ul>
+
+
+<a href="https://github.com/MarcoPerez29/ProyectoMavenLibrary"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" width="50"/></a>
+
+<hr>
+
+<h3>💡 Skills Applied</h3>
+
+<table >
+<tr>
+<td valign="top">
+
+✔ Full Stack Development <br>
+✔ Frontend Development <br>
+✔ Backend Development <br>
+✔ Object-Oriented Programming (OOP) <br>
+✔ Database Design and Integration <br>
+✔ REST API Integration <br>
+✔ DOM Manipulation <br>
+✔ Responsive Web Design <br>
+✔ Software Architecture <br>
+✔ Design Patterns <br>
+
+</td>
+
+<td valign="top">
+
+✔ CRUD Operations <br>
+✔ Data Persistence <br>
+✔ JPA / Hibernate <br>
+✔ Unit Testing <br>
+✔ Problem Solving <br>
+✔ Team Collaboration <br>
+✔ Agile Development Principles <br>
+✔ Continuous Learning <br>
+
+</td>
+</tr>
+</table>
